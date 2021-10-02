@@ -1,0 +1,10 @@
+{
+  "name": "HacktoberRepo101",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
