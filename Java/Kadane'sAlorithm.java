@@ -7,8 +7,8 @@ class Solution{
     // arr: input array
     // n: size of array
     //Function to find the sum of contiguous subarray with maximum sum.
-    int maxSubarraySum(int arr[], int n){
-        
+    int maxSubarraySum(int arr[]){
+        int n = arr.length;
         int localMax = 0;
         int globalMax = Integer.MIN_VALUE;
         
